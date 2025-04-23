@@ -1,5 +1,4 @@
 # new-portofolio-js-html-scss
-portofolio using JS HTML SCSS and CSS3
-
-this is the website
- portofolio-js-scss.netlify.app
+portofolio using JS HTML SCSS and css
+this is the website is alive on
+portofolio-js-scss.netlify.app
